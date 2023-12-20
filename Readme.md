@@ -1,3 +1,3 @@
-# Repositório com minhas resoluções dos desafios no beecrowd
+# Resoluções dos desafios no beecrowd
 
 Aqui irei guardar meus arquivos de resolução dos desafios do beecrowd e irei aproveitar para praticar sobre git. :)
